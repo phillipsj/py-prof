@@ -1,0 +1,9 @@
+RunSnakeRun==2.0.4
+SquareMap==1.0.3
+argparse==1.2.1
+memory-profiler==0.30
+objgraph==1.7.2
+profilehooks==1.7
+psutil==1.2.1
+pycallgraph==1.0.1
+wsgiref==0.1.2
